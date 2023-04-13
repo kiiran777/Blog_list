@@ -1,0 +1,24 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+
+.name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.role {
+  font-size: 10px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #616e7c;
+}
